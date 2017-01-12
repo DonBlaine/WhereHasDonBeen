@@ -33,7 +33,9 @@ var locations = [
 ['Puerto Vallarta, Mexico', 20.653407,-105.2253316],
 ['Las Vegas, Nevada', 36.1699412, -115.13982959999998],
 ['Reno, Nevada', 39.5296329, -119.8138027],
-['Tahoe, Nevada', 39.0968493, -120.0323507]
+['Tahoe, Nevada', 39.0968493, -120.0323507],
+['Bucharest, Romania', 44.4268, 26.1025]
+['Vienna, Austria', 48.2082, 16.3738]
 ];
 
 function initialize() {
