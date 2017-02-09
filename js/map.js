@@ -35,7 +35,8 @@ var locations = [
 ['Reno, Nevada', 39.5296329, -119.8138027],
 ['Tahoe, Nevada', 39.0968493, -120.0323507],
 ['Bucharest, Romania', 44.4268, 26.1025],
-['Vienna, Austria', 48.2082, 16.3738]
+['Vienna, Austria', 48.2082, 16.3738],
+['Glasgow, Scotland',55.8642, 4.2518]
 ];
 
 function initialize() {
